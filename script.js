@@ -1,5 +1,5 @@
 document.body.innerHTML = `<div class="heading-container">
-<h1> Cats List</h1> </div>
+<h1> Cats </h1> </div>
 
 <div id="mainContainer"  class="main-container"> </div>
 
